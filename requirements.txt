@@ -1,0 +1,3 @@
+flask
+pep8
+coverage<4
